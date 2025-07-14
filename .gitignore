@@ -18,3 +18,5 @@ coverage.xml
 .pytest_cache/
 
 .mypy_cache/
+/tests/test_services.py
+/tests/test_submitted_repo.py
