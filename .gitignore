@@ -50,3 +50,5 @@ coverage.xml
 # mypy / pylint / etc.
 .mypy_cache/
 .cache/
+/tests/test_services.py
+/tests/test_submitted_repo.py
